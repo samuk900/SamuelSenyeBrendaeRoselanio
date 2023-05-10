@@ -200,9 +200,8 @@ while (op != 0):
                    else:
                        print('Senha Incorreta')
                else:
-                   print('Usuário incorreto')
-           else:
-               print('Usuário não cadastrado')
+                   print('Usuário não encontrado')
+
 
    elif (op != 0):
        print('Seleçao invalida')
